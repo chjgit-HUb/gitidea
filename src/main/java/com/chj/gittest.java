@@ -10,5 +10,6 @@ public class gittest {
         System.out.println("hello gotjhhh");
         System.out.println("hello gotjjjj");
         System.out.println("hello test2");
+        System.out.println("hello master");
     }
 }
